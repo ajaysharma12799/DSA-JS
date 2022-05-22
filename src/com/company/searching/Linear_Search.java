@@ -1,4 +1,4 @@
-package com.company.array;
+package com.company.searching;
 
 public class Linear_Search {
     public static void main(String[] args) {
